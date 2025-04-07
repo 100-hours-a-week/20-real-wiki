@@ -26,7 +26,7 @@ assignees: ''
 | 13 | · 오늘 할 일 |@yubin425 | @iHyunWoo| [내용 입력] |  |  |
 | 14  | · 예상되는 이슈 | @yubin425  | @iHyunWoo | [내용 입력] |  |  |
 | 15 | · 작일 회고 | @yubin425  | @iHyunWoo | [내용 입력] |  |  |
-| 16  | · 오늘 할 일 | @yubin425  | @seoyeon-u [내용 입력] |  |  |
+| 16  | · 오늘 할 일 | @yubin425  | @seoyeon-u | [내용 입력] |  |  |
 | 17  | · 예상되는 이슈 | @yubin425  | @seoyeon-u | [내용 입력] |  |  |
 | 18  | · 작일 회고 | @yubin425  | @seoyeon-u | [내용 입력] |  |  |
 | 19  | · 오늘 할 일 | @yubin425   | @suin420 | [내용 입력] |  |  |
