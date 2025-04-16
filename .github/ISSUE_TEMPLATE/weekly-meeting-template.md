@@ -1,6 +1,6 @@
 ---
 name: weekly-meeting-template
-about: Describe this issue template's purpose here.
+about: 주간 미팅 진척도 템플릿
 title: "[스프린트n] nn.nn n주차 주간 미팅"
 labels: ''
 assignees: ''
